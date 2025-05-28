@@ -1,4 +1,4 @@
-#!/home/pc-03/estatistica-treina/venv/bin/python3
+#!/home/laza/estatistica-treina/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
